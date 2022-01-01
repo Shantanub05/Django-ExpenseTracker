@@ -1,0 +1,28 @@
+# Virtual environment
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Node.js dependencies
+node_modules/
+
+# Ignore package-lock.json
+package-lock.json
+
+# VSCode settings
+.vscode/
+
+# Other
+.DS_Store
+.idea/
